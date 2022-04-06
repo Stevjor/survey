@@ -1,0 +1,21 @@
+fieldset {
+    border: none;
+    margin-top: 20px;
+}
+
+#dropdown {
+    display: block;
+    margin-top: 5px;
+}
+
+.block-me {
+    display: block;
+    margin-top: 5px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
