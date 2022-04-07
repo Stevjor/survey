@@ -20,9 +20,21 @@ body {
     width: 100%;
     height: 100hv;
     margin: 0;
+    background-image: url(./pexels-alex-green-5699516.jpg);
+    background-size: 1200px;
 }
 
 textarea {
     display: block;
     margin-top: 8px;
+}
+
+form {
+    background-color: wheat;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
